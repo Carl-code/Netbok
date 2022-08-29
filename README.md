@@ -1,6 +1,6 @@
-# Thousand-App
+# NetBok-App
 
-# Bienvenido a mi Repositorio de Thousand Sunny Web!
+# Bienvenido a mi Repositorio de NetBok app!
 
 Hola, Gracias por tomarte el tiempo en revisar mi Código, Código que he elaborado con mucho Amor y demasiadas Tazas de Café.
 
